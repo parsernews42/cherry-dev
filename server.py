@@ -5,7 +5,7 @@ from flask import Flask, request, Response, send_from_directory
 
 app = Flask(__name__)
 
-PYTHON_EXE = "python3"
+PYTHON_EXE = os.environ.get("PYTHON_EXE", "python") 
 SCRIPTS_DIR = os.path.join(os.path.dirname(__file__), "parsers")
 
 SCRIPTS = {
@@ -19,8 +19,12 @@ SCRIPTS = {
 
 @app.route("/")
 def index():
-    return send_from_directory('.', 'index.html')
+    return send_from_directory(os.path.dirname(__file__), 'index.html')
 
+@app.route("/static/<path:path>")
+def send_static(path):
+    return send_from_directory('static', path)
+    
 def stream_process_output(process, logfile_path):
     """Вывод stdout скрипта в SSE и лог-файл"""
     with open(logfile_path, "w", encoding="utf-8") as logfile:
