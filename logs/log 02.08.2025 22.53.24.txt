@@ -1,0 +1,120 @@
+[INFO] Открываем страницу https://www.interfax.ru/business/
+[INFO] Клик по 'Загрузить еще новости' (1/3)
+[INFO] Клик по 'Загрузить еще новости' (2/3)
+[INFO] Клик по 'Загрузить еще новости' (3/3)
+[INFO] Всего найдено блоков новостей: 164
+[INFO] Отобрано актуальных новостей (сегодня и вчера): 55
+[DEBUG] 1/55: 'Поставки ПК в мире во II квартале выросли на 6,5%' | 01-08-2025 20:40 | https://www.interfax.ru/business/1039310
+Progress: 1%
+[DEBUG] 2/55: 'Гонконгская фондовая биржа смягчит некоторые правила листинга' | 01-08-2025 20:10 | https://www.interfax.ru/business/1039309
+Progress: 3%
+[DEBUG] 3/55: 'Чистая прибыль АЛРОСА в I полугодии выросла на 12% при падении выручки' | 01-08-2025 19:49 | https://www.interfax.ru/business/1039306
+Progress: 5%
+[DEBUG] 4/55: 'Uniper закупит газ в Канаде для доставки на биржу в США, откуда компания получит СПГ' | 01-08-2025 19:39 | https://www.interfax.ru/business/1039304
+Progress: 7%
+[DEBUG] 5/55: 'Российский рынок акций завершил пятницу и неделю снижением из-за рисков санкций США' | 01-08-2025 19:01 | https://www.interfax.ru/business/1039296
+Progress: 9%
+[DEBUG] 6/55: 'Во Франции госсубсидии на ВИЭ в 2026 году вырастут на 23% - до рекордных 9 млрд евро' | 01-08-2025 18:57 | https://www.interfax.ru/world/1039294
+Progress: 10%
+[DEBUG] 7/55: 'Цена нефти Brent опустилась до $69,84 за баррель' | 01-08-2025 18:34 | https://www.interfax.ru/business/1039289
+Progress: 12%
+[DEBUG] 8/55: 'ЮГК во I полугодии снизила выручку по РСБУ на 22%' | 01-08-2025 18:33 | https://www.interfax.ru/business/1039290
+Progress: 14%
+[DEBUG] 9/55: 'Gartner спрогнозировал рост мировых IT-расходов в 2025 году на 7,9%' | 01-08-2025 18:14 | https://www.interfax.ru/digital/1039288
+Progress: 16%
+[DEBUG] 10/55: 'Минтранс сохраняет прогноз перевозок российских авиакомпаний на уровне прошлого года' | 01-08-2025 18:07 | https://www.interfax.ru/russia/1039287
+Progress: 18%
+[DEBUG] 11/55: 'Объем торгов "Мосбиржи" в июле вырос на 16% г/г, до 149 трлн рублей' | 01-08-2025 17:37 | https://www.interfax.ru/business/1039283
+Progress: 20%
+[DEBUG] 12/55: 'В США в июле индекс потребдоверия вырос слабее прогноза' | 01-08-2025 17:35 | https://www.interfax.ru/business/1039282
+Progress: 21%
+[DEBUG] 13/55: 'В США индекс ISM Manufacturing в июле неожиданно снизился до 48 пунктов' | 01-08-2025 17:17 | https://www.interfax.ru/business/1039279
+Progress: 23%
+[DEBUG] 14/55: '"ПроЗерно" повысило прогноз сбора урожая в России в 2025 году до 131,3 млн тонн' | 01-08-2025 17:07 | https://www.interfax.ru/business/1039277
+Progress: 25%
+[DEBUG] 15/55: 'ЦБ разрешил покупать валюту инвесторам из недружественных стран для новых инвестиций со счетов "Ин"' | 01-08-2025 17:02 | https://www.interfax.ru/business/1039275
+Progress: 27%
+[DEBUG] 16/55: '"Молдовагаз" будет лишен лицензии на поставку газа в Молдавию 4 августа' | 01-08-2025 16:55 | https://www.interfax.ru/world/1039273
+Progress: 29%
+[DEBUG] 17/55: 'XPeng и Xiaomi в июле увеличили поставки электромобилей до рекордных объемов' | 01-08-2025 16:54 | https://www.interfax.ru/business/1039271
+Progress: 30%
+[DEBUG] 18/55: '"КАМАЗ" в I полугодии получил 20,8 млрд руб. чистого убытка по РСБУ' | 01-08-2025 16:53 | https://www.interfax.ru/business/1039272
+Progress: 32%
+[DEBUG] 19/55: 'Предприниматель из Грозного приобрел "субсидиарку" Ванеева по долгам "Евродона"' | 01-08-2025 16:47 | https://www.interfax.ru/business/1039270
+Progress: 34%
+[DEBUG] 20/55: '"Транснефть" увеличила полугодовую чистую прибыль по РСБУ до 76,3 млрд рублей' | 01-08-2025 16:25 | https://www.interfax.ru/business/1039266
+Progress: 36%
+[DEBUG] 21/55: '"СовЭкон" снизил прогноз сбора пшеницы в России в 2025 году до 83,3 млн т' | 01-08-2025 16:10 | https://www.interfax.ru/business/1039263
+Progress: 38%
+[DEBUG] 22/55: 'Результаты Colgate-Palmolive во II квартале превзошли прогнозы' | 01-08-2025 16:05 | https://www.interfax.ru/business/1039262
+Progress: 40%
+[DEBUG] 23/55: 'В США в июле число рабочих мест выросло слабее прогноза' | 01-08-2025 15:55 | https://www.interfax.ru/business/1039261
+Progress: 41%
+[DEBUG] 24/55: 'Полугодовая чистая прибыль "Т Плюс" по РСБУ снизилась в 1,74 раза' | 01-08-2025 15:51 | https://www.interfax.ru/business/1039260
+Progress: 43%
+[DEBUG] 25/55: 'Чистый убыток "СПБ биржи" по РСБУ за I полугодие сократился в 2,3 раза' | 01-08-2025 15:49 | https://www.interfax.ru/business/1039259
+Progress: 45%
+[DEBUG] 26/55: 'Акционеры ТМК одобрили переход на единую акцию' | 01-08-2025 15:46 | https://www.interfax.ru/business/1039257
+Progress: 47%
+[DEBUG] 27/55: '"Восьмерка" ОПЕК+ обсудит необходимость наращивания нефтедобычи в сентябре на 548 тыс. б/с' | 01-08-2025 15:39 | https://www.interfax.ru/business/1039256
+Progress: 49%
+[DEBUG] 28/55: 'Экспорт российского безалкогольного пива в I полугодии вырос на 34%' | 01-08-2025 15:22 | https://www.interfax.ru/business/1039251
+Progress: 50%
+[DEBUG] 29/55: '"Лаборатория Касперского" нарастила долю в Ximi Pro до 90%' | 01-08-2025 15:13 | https://www.interfax.ru/business/1039250
+Progress: 52%
+[DEBUG] 30/55: 'Moderna во II квартале снизила чистый убыток в 1,6 раза' | 01-08-2025 15:10 | https://www.interfax.ru/business/1039249
+Progress: 54%
+[DEBUG] 31/55: 'Brent подешевела до $71,04 за баррель' | 01-08-2025 15:03 | https://www.interfax.ru/business/1039246
+Progress: 56%
+[DEBUG] 32/55: 'Трамп призвал совет управляющих ФРС "взять управление", если Пауэлл не снизит ставку' | 01-08-2025 14:43 | https://www.interfax.ru/business/1039237
+Progress: 58%
+[DEBUG] 33/55: 'В Индии надеются на продолжение переговоров с США о пошлинах' | 01-08-2025 14:32 | https://www.interfax.ru/business/1039232
+Progress: 60%
+[DEBUG] 34/55: 'Exxon Mobil сократила чистую прибыль на 23% во II кв., лучше прогнозов' | 01-08-2025 14:30 | https://www.interfax.ru/business/1039233
+Progress: 61%
+[DEBUG] 35/55: 'Nippon Steel отчиталась о чистом квартальном убытке из-за покупки US Steel' | 01-08-2025 14:20 | https://www.interfax.ru/business/1039231
+Progress: 63%
+[DEBUG] 36/55: 'Universal Music во II квартале увеличила выручку на 1,6%' | 01-08-2025 14:15 | https://www.interfax.ru/business/1039229
+Progress: 65%
+[DEBUG] 37/55: 'Пакистан удовлетворен торговым соглашением с США и пошлинами в 19%' | 01-08-2025 14:00 | https://www.interfax.ru/business/1039226
+Progress: 67%
+[DEBUG] 38/55: 'Chevron во II квартале сократила чистую прибыль почти вдвое' | 01-08-2025 13:49 | https://www.interfax.ru/business/1039224
+Progress: 69%
+[DEBUG] 39/55: 'Россия и Китай договорились ускорить отмену барьеров для импорта российских пеллет' | 01-08-2025 13:47 | https://www.interfax.ru/russia/1039222
+Progress: 70%
+[DEBUG] 40/55: '"Яковлев" в I полугодии нарастил чистый убыток по РСБУ в 9,2 раза' | 01-08-2025 13:46 | https://www.interfax.ru/business/1039223
+Progress: 72%
+[DEBUG] 41/55: 'Novo Nordisk покинула топ-10 самых дорогих компаний Европы' | 01-08-2025 13:33 | https://www.interfax.ru/business/1039219
+Progress: 74%
+[DEBUG] 42/55: 'Goldman Sachs может инвестировать в производителя мороженого Froneri' | 01-08-2025 13:13 | https://www.interfax.ru/business/1039212
+Progress: 76%
+[DEBUG] 43/55: '"Группа Позитив" нарастила квартальную выручку на 42% до 4,41 млрд рублей' | 01-08-2025 13:02 | https://www.interfax.ru/business/1039208
+Progress: 78%
+[DEBUG] 44/55: 'Объем торгов на СПБ бирже в июле вырос на 5% м/м, до 133,5 млрд рублей' | 01-08-2025 12:28 | https://www.interfax.ru/business/1039202
+Progress: 80%
+[DEBUG] 45/55: 'Strategy получила $14 млрд операционной прибыли во II кв. за счет роста биткойна' | 01-08-2025 10:39 | https://www.interfax.ru/business/1039181
+Progress: 81%
+[DEBUG] 46/55: 'Рубль утром в пятницу не демонстрирует ярко выраженной динамики на МосБирже' | 01-08-2025 10:20 | https://www.interfax.ru/business/1039178
+Progress: 83%
+[DEBUG] 47/55: 'Рынок акций РФ открылся в основную сессию ростом индексов МосБиржи и РТС на 0,7%' | 01-08-2025 10:10 | https://www.interfax.ru/business/1039176
+Progress: 85%
+[DEBUG] 48/55: 'Чистая прибыль "Татнефти" по РСБУ в I полугодии снизилась в 1,7 раза' | 01-08-2025 09:59 | https://www.interfax.ru/business/1039174
+Progress: 87%
+[DEBUG] 49/55: 'Озон банк начал выпускать кредитные карты' | 01-08-2025 09:15 | https://www.interfax.ru/business/1039169
+Progress: 89%
+[DEBUG] 50/55: 'Индекс PMI обрабатывающих отраслей РФ в июле снизился до 47 пунктов' | 01-08-2025 09:09 | https://www.interfax.ru/business/1039168
+Progress: 90%
+[DEBUG] 51/55: 'Amazon увеличила выручку на 13% во II квартале, лучше прогнозов' | 01-08-2025 09:04 | https://www.interfax.ru/business/1039166
+Progress: 92%
+[DEBUG] 52/55: 'Apple увеличила чистую прибыль в III финквартале на 9%, выручку - на 10%' | 01-08-2025 08:39 | https://www.interfax.ru/business/1039165
+Progress: 94%
+[DEBUG] 53/55: 'Brent подорожала до $71,84 за баррель' | 01-08-2025 08:35 | https://www.interfax.ru/business/1039164
+Progress: 96%
+[DEBUG] 54/55: 'Рынок акций США в четверг снизился на статданных, корпоративных отчетностях' | 01-08-2025 06:32 | https://www.interfax.ru/world/1039153
+Progress: 98%
+[DEBUG] 55/55: 'Европейские рынки акций в основном завершили торги в минусе' | 01-08-2025 06:11 | https://www.interfax.ru/world/1039150
+Progress: 100%
+[INFO] Закрыт браузер.
+[INFO] Сохраняем данные в файл C:\Users\Eternity\Documents\Python_Projects\parsed_excels\News_data_Interfax_Today_Yesterday.xlsx
+[INFO] Данные успешно сохранены в файле 'C:\Users\Eternity\Documents\Python_Projects\parsed_excels\News_data_Interfax_Today_Yesterday.xlsx'.
+[INFO] Скрипт завершен успешно.

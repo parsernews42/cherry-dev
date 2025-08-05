@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Интерфейс для Python‑скриптов</title>
+  <style>
+    *, *::before, *::after {
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f5f7fa;
+    }
+
+    h1 {
+        color: #2c3e50;
+        text-align: center;
+        margin-bottom: 30px;
+        border-bottom: 2px solid #3498db;
+        padding-bottom: 10px;
+    }
+
+    .dashboard {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 25px;
+        margin-top: 30px;
+    }
+
+    .script-card {
+        border-radius: 16px;
+        padding: 30px 20px;
+        box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease;
+        cursor: pointer;
+        text-align: center;
+        border: none;
+    }
+
+    .script-card:hover {
+        transform: translateY(-8px) scale(1.03);
+        box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+    }
+
+    .script-card h2 {
+        margin-top: 0;
+        font-size: 1.3rem;
+        word-break: break-word;
+        word-wrap: break-word;
+    }
+
+    .script-card p {
+        margin-bottom: 15px;
+        font-size: 0.9rem;
+        opacity: 0.9;
+        word-break: break-word;
+        word-wrap: break-word;
+    }
+
+    .console {
+        background-color: #2c3e50;
+        color: #ecf0f1;
+        padding: 50px; /* Высота размера консоли вывода */
+        border-radius: 5px;
+        margin-top: 30px;
+        font-family: monospace;
+        white-space: pre-wrap;
+        max-height: 400px;
+        overflow-y: auto;
+    }
+
+    .status {
+        margin-top: 10px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .success { color: #27ae60; }
+    .error   { color: #e74c3c; }
+
+    #stopBtn {
+        margin-top: 15px;
+        padding: 10px 20px;
+        font-size: 1rem;
+        background-color: #e74c3c;
+        color: white;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        display: none;
+        transition: background-color 0.3s ease;
+    }
+
+    #stopBtn:hover {
+        background-color: #c0392b;
+    }
+
+    /* Мобильная адаптация */
+    @media (max-width: 600px) {
+        h1 {
+            font-size: 1.1rem;
+            text-align: center;
+            line-height: 1.4;
+            border: none;
+            padding-bottom: 0;
+            word-break: break-word;
+        }
+
+        .heading-line {
+        display: block;
+        }
+
+        .dashboard {
+            grid-template-columns: 1fr !important;
+        }
+
+        .script-card {
+            padding: 20px 15px;
+        }
+
+        .header-container {
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .header-container img {
+            margin-bottom: 10px;
+        }
+    }
+  </style>
+</head>
+<body>
+  <div class="header-container" style="display:flex; flex-wrap:wrap; align-items:center; gap:15px; margin-bottom:30px;">
+    <img src="/static/images/SEV.PNG" alt="Логотип" style="max-width:75px; height:auto;" />
+    <h1 style="margin:0; flex-grow:1;">
+        <span class="heading-line">Интерфейс управления</span><br />
+        <span class="heading-line">Парсерами Новостей</span>
+    </h1>
+
+  </div>
+
+  <div class="dashboard">
+    <div class="script-card" style="background:linear-gradient(135deg,rgba(52,152,219,.15),rgba(46,204,113,.1)); color:#1abc9c;" onclick="runScript('INTERFAX_Business_news')">
+      <h2>Interfax Новости</h2>
+      <p><b>«Интерфа́кс»</b> — информационное агентство, одно из трёх ведущих агентств России</p>
+    </div>
+
+    <div class="script-card" style="background:linear-gradient(135deg,rgba(231,76,60,.1),rgba(243,156,18,.05)); color:#d35400;" onclick="runScript('MASH_First_100_news')">
+      <h2>Mash Новости</h2>
+      <p><b>«Mash»</b> — российское новостное интернет-СМИ, входящее в состав медиахолдинга News Media Holding</p>
+    </div>
+
+    <div class="script-card" style="background:linear-gradient(135deg,#e0c9e9,#e4daec); color:#8e44ad;" onclick="runScript('RIA_Ekonomika_news')">
+      <h2>RIA Новости</h2>
+      <p><b>«РИА Новости»</b> — бывшая медиагруппа и одно из крупнейших действующих государственных информационных агентств со штаб-квартирой в Москве</p>
+    </div>
+
+    <div class="script-card" style="background:linear-gradient(135deg,#f7e7a6,#ead8c8); color:#f39807;" onclick="runScript('RGru_news')">
+      <h2>RG.ru Новости</h2>
+      <p><b>«Российская газета»</b> - является официальным печатным оргадом Правительства Российской Федерации</p>
+    </div>
+
+    <div class="script-card" style="background:linear-gradient(135deg,rgba(232,67,147,.09),rgba(253,121,168,.05)); color:#c0392b;" onclick="runScript('PRIME_news')">
+      <h2>1prime Новости</h2>
+      <p><b>«ПРАЙМ»</b> – российское информационное агентство, специализирующееся на предоставлении финансово-экономической информации</p>
+    </div>
+
+    <div class="script-card" style="background:linear-gradient(135deg,rgba(26,188,156,.1),rgba(22,160,133,.07)); color:#314152;" onclick="runScript('TASS_news')">
+      <h2>TASS Новости</h2>
+      <p><b>«ТАСС»</b> - Информационное телеграфное агентство России, ведущее государственное информационное агентство России</p>
+    </div>
+  </div>
+
+  <button id="stopBtn">Остановить код</button>
+  <div class="status" id="status"></div>
+
+  <div id="spinner" style="display:none; text-align:center; margin:20px 0;">
+    <p style="margin:10px 0; font-weight:bold; font-size:1.1rem; color:#27ae60;">
+      Делаю&nbsp;магию,&nbsp;пожалуйста&nbsp;подождите…
+    </p>
+    <img src="/static/loading.gif" style="width:120px;" />
+  </div>
+
+  <div class="console" id="output"></div>
+
+  <script>
+    let eventSource = null;
+    let clickedCard = null;
+
+    async function runScript(scriptName) {
+        const output  = document.getElementById('output');
+        const status  = document.getElementById('status');
+        const spinner = document.getElementById('spinner');
+        const stopBtn = document.getElementById('stopBtn');
+        const cards   = document.querySelectorAll('.script-card');
+
+        clickedCard = [...cards].find(card => card.onclick.toString().includes(scriptName));
+
+        cards.forEach(card => {
+            if (card === clickedCard) {
+                card.style.pointerEvents = 'none';
+                card.style.opacity = '0.6';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+
+        output.textContent = '';
+        status.textContent = '';
+        status.className   = 'status';
+        spinner.style.display = 'block';
+        stopBtn.style.display = 'inline-block';
+
+        if (eventSource) eventSource.close();
+
+        eventSource = new EventSource(`/run-script-stream?name=${scriptName}`);
+
+        eventSource.onmessage = function (event) {
+            if (event.data === "[Завершено]") {
+                finishScript("Скрипт выполнен успешно", "success");
+                return;
+            }
+            output.textContent += event.data + "\n";
+            output.scrollTop = output.scrollHeight;
+        };
+
+        eventSource.onerror = function () {
+            finishScript("Ошибка выполнения или соединение закрыто", "error");
+        };
+
+        stopBtn.onclick = function () {
+            if (eventSource) {
+                eventSource.close();
+                eventSource = null;
+                finishScript("Выполнение остановлено пользователем", "error");
+            }
+        };
+
+        function finishScript(message, className) {
+            status.textContent = message;
+            status.className   = 'status ' + className;
+            spinner.style.display = 'none';
+            stopBtn.style.display = 'none';
+            if (eventSource) {
+                eventSource.close();
+                eventSource = null;
+            }
+            cards.forEach(card => {
+                card.style.pointerEvents = 'auto';
+                card.style.opacity = '1';
+                card.style.display = 'block';
+            });
+        }
+    }
+  </script>
+</body>
+</html>

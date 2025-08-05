@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: cherry-dev
+    env: python
+    buildCommand: ""
+    startCommand: gunicorn server:app
+    plan: free
+    branch: master
+    repo: https://github.com/parsernews42/cherry-dev

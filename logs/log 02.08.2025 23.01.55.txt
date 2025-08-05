@@ -1,0 +1,114 @@
+[INFO] Открываем страницу https://mashnews.ru/publications/
+[INFO] Ждем загрузки элемента с новостями
+[INFO] Выполняем прокрутку вниз 1/3
+[DEBUG] Найдено элементов на странице: 20
+[DEBUG] Новость: 'В Нижегородской области наладили производство полимерной лозы из старых мусорных контейнеров', Ссылка: https://mashnews.ru/v-nizhegorodskoj-oblasti-naladili-proizvodstvo-polimernoj-lozyi-iz-staryix-musornyix-kontejnerov.html, Дата и время: 17:59
+
+Progress: 2% [1/50][DEBUG] Новость: 'Обновленный рулевой привод для самолета Ил-114-300 оказался невостребован', Ссылка: https://mashnews.ru/obnovlennyij-rulevoj-privod-dlya-samoleta-il-114-300-okazalsya-nevostrebovan.html, Дата и время: 17:36
+
+Progress: 4% [2/50][DEBUG] Новость: 'Чистый убыток «КАМАЗа» по РСБУ за первое полугодие составил 20,8 млрд рублей', Ссылка: https://mashnews.ru/chistyij-ubyitok-kamaza-po-rsbu-za-pervoe-polugodie-sostavil-208-mlrd-rublej.html, Дата и время: 17:18
+
+Progress: 6% [3/50][DEBUG] Новость: '«Р-Флот» спустил на воду два бонопостановочных судна проекта RBT2006', Ссылка: https://mashnews.ru/r-flot-spustil-na-vodu-dva-bonopostanovochnyix-sudna-proekta-rbt2006.html, Дата и время: 16:49
+
+Progress: 8% [4/50][DEBUG] Новость: 'Чистая прибыль компании «Алроса» в первом полугодии выросла на 12,2%', Ссылка: https://mashnews.ru/chistaya-pribyil-kompanii-alrosa-v-pervom-polugodii-vyirosla-na-122.html, Дата и время: 16:18
+
+Progress: 10% [5/50][DEBUG] Новость: '«Герс Технолоджи» запустила в тверском промпарке «Боровлево-3» центр производства нефтегазового оборудования', Ссылка: https://mashnews.ru/gers-texnolodzhi-zapustila-v-tverskom-promparke-borovlevo-3-czentr-proizvodstva-neftegazovogo-oborudovaniya.html, Дата и время: 15:47
+
+Progress: 12% [6/50][DEBUG] Новость: '«Инжиниринговый центр Саров» создаст бюро оказания услуг по роботизации производственных процессов', Ссылка: https://mashnews.ru/inzhiniringovyij-czentr-sarov-sozdast-byuro-okazaniya-uslug-po-robotizaczii-proizvodstvennyix-proczessov.html, Дата и время: 15:20
+
+Progress: 14% [7/50][DEBUG] Новость: 'Челябинский завод металлоконструкций впервые изготовил оборудование для нефтедобывающей промышленности', Ссылка: https://mashnews.ru/chelyabinskij-zavod-metallokonstrukczij-vpervyie-izgotovil-oborudovanie-dlya-neftedobyivayushhej-promyishlennosti.html, Дата и время: 14:51
+
+Progress: 16% [8/50][DEBUG] Новость: 'Уфимский научный институт «Роснефти» разработал и запатентовал первый российский роботизированный комплекс для ремонта насосно-компрессорных труб', Ссылка: https://mashnews.ru/ufimskij-nauchnyij-institut-rosnefti-razrabotal-i-zapatentoval-pervyij-rossijskij-robotizirovannyij-kompleks-dlya-remonta-nasosno-kompressornyix-trub.html, Дата и время: 14:17
+
+Progress: 18% [9/50][DEBUG] Новость: 'Три государственных индустриальных парка начали строить в Московской области', Ссылка: https://mashnews.ru/tri-gosudarstvennyix-industrialnyix-parka-nachali-stroit-v-moskovskoj-oblasti.html, Дата и время: 13:46
+
+Progress: 20% [10/50][DEBUG] Новость: 'ЦНИИАГ и «НПП «Проект-техника» разработали первый отечественный телетрап для российских аэропортов', Ссылка: https://mashnews.ru/czniiag-i-npp-proekt-texnika-razrabotali-pervyij-otechestvennyij-teletrap-dlya-rossijskix-aeroportov.html, Дата и время: 13:13
+
+Progress: 22% [11/50][DEBUG] Новость: 'Первые: полностью российский МС-21, SIM-чипы от ГЛОНАСС и 7-местный кроссовер T8 Tenet', Ссылка: https://mashnews.ru/pervyie-polnostyu-rossijskij-ms-21-sim-chipyi-ot-glonass-i-7-mestnyij-krossover-t8-tenet.html, Дата и время: 12:44
+
+Progress: 24% [12/50][DEBUG] Новость: 'Американский производитель гигиенических средств Kimberly-Clark прекратил выпуск продукции Kleenex на заводе «Сыктывкар тиссью груп»', Ссылка: https://mashnews.ru/amerikanskij-proizvoditel-gigienicheskix-sredstv-kimberly-clark-prekratil-vyipusk-produkczii-kleenex-na-zavode-syiktyivkar-tissyu-grup.html, Дата и время: 12:16
+
+Progress: 26% [13/50][DEBUG] Новость: 'Структура «Русгидро» выбила из бюджета Камчатки 1,1 млрд субсидии', Ссылка: https://mashnews.ru/struktura-rusgidro-vyibila-iz-byudzheta-kamchatki-11-mlrd-subsidii.html, Дата и время: 11:46
+
+Progress: 28% [14/50][DEBUG] Новость: '«Гермес-Урал» открыл в Екатеринбурге новый цех по выпуску днищ для емкостного оборудования', Ссылка: https://mashnews.ru/germes-ural-otkryil-v-ekaterinburge-novyij-czex-po-vyipusku-dnishh-dlya-emkostnogo-oborudovaniya.html, Дата и время: 11:17
+
+Progress: 30% [15/50][DEBUG] Новость: 'В России растет объем производства безалкогольных напитков', Ссылка: https://mashnews.ru/v-rossii-rastet-obem-proizvodstva-bezalkogolnyix-napitkov.html, Дата и время: 10:48
+
+Progress: 32% [16/50][DEBUG] Новость: 'Компания «Амилоза» построит в ОЭЗ «Липецк» завод по производству амилозного крахмала за 8,5 млрд рублей', Ссылка: https://mashnews.ru/kompaniya-amiloza-postroit-v-oez-lipeczk-zavod-po-proizvodstvu-amiloznogo-kraxmala-za-85-mlrd-rublej.html, Дата и время: 10:13
+
+Progress: 34% [17/50][DEBUG] Новость: 'Компания «Интео» планирует в 2026 году выпустить пилотный образец уникальной мобильной буровой установки', Ссылка: https://mashnews.ru/kompaniya-inteo-planiruet-v-2026-godu-vyipustit-pilotnyij-obrazecz-unikalnoj-mobilnoj-burovoj-ustanovki.html, Дата и время: 09:36
+
+Progress: 36% [18/50][DEBUG] Новость: '«Аргументум Фарма» запустит в ОЭЗ «Дубна» первую очередь научно-производственного фармацевтического комплекса за 1,8 млрд рублей', Ссылка: https://mashnews.ru/argumentum-farma-zapustit-v-oez-dubna-pervuyu-ochered-nauchno-proizvodstvennogo-farmaczevticheskogo-kompleksa-za-18-mlrd-rublej.html, Дата и время: 09:04
+
+Progress: 38% [19/50][DEBUG] Новость: 'Концерн «Калашников» впервые продемонстрировал свои новые гражданские БПЛА представителям Арктических регионов', Ссылка: https://mashnews.ru/konczern-kalashnikov-vpervyie-prodemonstriroval-svoi-novyie-grazhdanskie-bpla-predstavitelyam-arkticheskix-regionov.html, Дата и время: 17:59
+
+Progress: 40% [20/50][INFO] Выполняем прокрутку вниз 2/3
+[DEBUG] Найдено элементов на странице: 300
+[DEBUG] Новость: '«Агроэко» запустила свой пятидесятый промышленный свиноводческий комплекс', Ссылка: https://mashnews.ru/agroeko-zapustila-v-tulskoj-oblasti-svoj-pyatidesyatyij-svinovodcheskij-kompleks.html, Дата и время: 17:32
+
+Progress: 42% [21/50][DEBUG] Новость: 'КМЗ освоил литье высокопрочного кобальт-хромового сплава', Ссылка: https://mashnews.ru/kmz-osvoil-lite-vyisokoprochnogo-kobalt-xromovogo-splava.html, Дата и время: 17:12
+
+Progress: 44% [22/50][DEBUG] Новость: 'РСПП: сводный индекс деловой среды в июле 2025 года снизился за месяц на 1,4 пункта', Ссылка: https://mashnews.ru/rspp-svodnyij-indeks-delovoj-sredyi-v-iyule-2025-goda-snizilsya-za-mesyacz-na-14-punkta.html, Дата и время: 16:44
+
+Progress: 46% [23/50][DEBUG] Новость: 'Гидроразрыв пласта запрещают еще в одной стране. Сможет ли Россия обойтись без ГРП', Ссылка: https://mashnews.ru/gidrorazryiv-plasta-zapreshhayut-eshhe-v-odnoj-strane.-smozhet-li-rossiya-obojtis-bez-grp.html, Дата и время: 16:17
+
+Progress: 48% [24/50][DEBUG] Новость: 'Lada Granta получила заводскую версию с двигателем, работающим на пропане', Ссылка: https://mashnews.ru/lada-granta-poluchila-zavodskuyu-versiyu-s-dvigatelem-rabotayushhim-na-propane.html, Дата и время: 15:47
+
+Progress: 50% [25/50][DEBUG] Новость: '«Северсталь» прошла сертификацию «Русского Регистра» на производство труб большого диаметра', Ссылка: https://mashnews.ru/severstal-proshla-sertifikacziyu-russkogo-registra-na-proizvodstvo-trub-bolshogo-diametra.html, Дата и время: 15:13
+
+Progress: 52% [26/50][DEBUG] Новость: 'Кейс: как сократить издержки на заводе с помощью ИИ', Ссылка: https://mashnews.ru/kejs-kak-sokratit-izderzhki-na-zavode-s-pomoshhyu-ii.html, Дата и время: 14:45
+
+Progress: 54% [27/50][DEBUG] Новость: 'На ЕВРАЗ ЗСМК впервые применили робота для ремонтных работ доменной печи с жидким чугуном внутри', Ссылка: https://mashnews.ru/na-evraz-zsmk-vpervyie-primenili-robota-dlya-remontnyix-rabot-domennoj-pechi-s-zhidkim-chugunom-vnutri.html, Дата и время: 14:16
+
+Progress: 56% [28/50][DEBUG] Новость: 'В Башкортостане производитель двигателей для БПЛА потребовал переименовать компанию-клон', Ссылка: https://mashnews.ru/v-bashkortostane-proizvoditel-elektrodvigatelej-potreboval-pereimenovat-kompaniyu-klon.html, Дата и время: 13:44
+
+Progress: 57% [29/50][DEBUG] Новость: 'Цивилев: доля отечественного оборудования в российском ТЭК к 2030 году должна вырасти до 90%', Ссылка: https://mashnews.ru/czivilev-dolya-otechestvennogo-oborudovaniya-v-rossijskom-tek-k-2030-godu-dolzhna-vyirasti-do-90.html, Дата и время: 13:16
+
+Progress: 60% [30/50][DEBUG] Новость: '«Металлоинвест» приобрел для Лебединского ГОКа самый мощный серийный российский бульдозер', Ссылка: https://mashnews.ru/metalloinvest-priobrel-dlya-lebedinskogo-goka-samyij-moshhnyij-serijnyij-rossijskij-buldozer.html, Дата и время: 12:46
+
+Progress: 62% [31/50][DEBUG] Новость: 'На предприятии «Росатома» в Ленобласти начали использовать роботов для сварки элементов насосного оборудования АЭС', Ссылка: https://mashnews.ru/na-predpriyatii-rosatoma-v-lenoblasti-nachali-ispolzovat-robotov-dlya-svarki-elementov-nasosnogo-oborudovaniya-aes.html, Дата и время: 12:17
+
+Progress: 64% [32/50][DEBUG] Новость: 'Дело в «железе». Очередной провайдер подвергся DDoS-атаке', Ссылка: https://mashnews.ru/delo-v-zheleze.-ocherednoj-provajder-podvergsya-ddos-atake.html, Дата и время: 11:52
+
+Progress: 66% [33/50][DEBUG] Новость: 'Минпромторг выделил почти 200 млн рублей на разработку проекта нового судна-снабженца для северного завоза', Ссылка: https://mashnews.ru/minpromtorg-vyidelil-pochti-200-mln-rublej-na-razrabotku-proekta-novogo-sudna-snabzhencza-dlya-severnogo-zavoza.html, Дата и время: 11:21
+
+Progress: 68% [34/50][DEBUG] Новость: 'Российские компании нарастили поставки меди в Китай на 81%', Ссылка: https://mashnews.ru/rossijskie-kompanii-narastili-postavki-medi-v-kitaj-na-81.html, Дата и время: 10:49
+
+Progress: 70% [35/50][DEBUG] Новость: '«Норкем» вложит более 1 млрд рублей в производство отечественных флокулянтов в Пермском крае.', Ссылка: https://mashnews.ru/norkem-vlozhit-bolee-1-mlrd-rublej-v-proizvodstvo-otechestvennyix-flokulyantov-v-permskom-krae.html, Дата и время: 10:25
+
+Progress: 72% [36/50][DEBUG] Новость: 'Автоматизация производства: цена ошибки контроля возрастает многократно', Ссылка: https://mashnews.ru/avtomatizacziya-proizvodstva-czena-oshibki-kontrolya-vozrastaet-mnogokratno.html, Дата и время: 10:00
+
+Progress: 74% [37/50][DEBUG] Новость: 'Завод «Аврора» представил универсальный экстрактор для масложировой промышленности', Ссылка: https://mashnews.ru/zavod-avrora-predstavil-universalnyij-promyishlennyij-ekstraktor-dlya-maslozhirovoj-promyishlennosti.html, Дата и время: 09:36
+
+Progress: 76% [38/50][DEBUG] Новость: 'Индекс промышленного производства в Москве за последние пять лет увеличился в 2,3 раза', Ссылка: https://mashnews.ru/indeks-promyishlennogo-proizvodstva-v-moskve-za-poslednie-pyat-let-uvelichilsya-v-23-raza.html, Дата и время: 09:04
+
+Progress: 78% [39/50][DEBUG] Новость: 'Судозавод «Отрадное» завершил строительство краболова «Механик Цуранов»', Ссылка: https://mashnews.ru/sudozavod-otradnoe-zavershil-stroitelstvo-krabolova-mexanik-czuranov.html, Дата и время: 30 июл 2025 18:05
+
+Progress: 80% [40/50][DEBUG] Новость: 'Михайловский ГОК закончил опытно-промышленные испытания нового каскада дробилок', Ссылка: https://mashnews.ru/mixajlovskij-gok-zavershil-opyitno-promyishlennyie-ispyitaniya-novogo-kaskada-drobilok.html, Дата и время: 17:48
+
+Progress: 82% [41/50][DEBUG] Новость: 'Мощность ТЭС «Ударная» в Краснодарском крае вырастет вдвое', Ссылка: https://mashnews.ru/moshhnost-tes-udarnaya-v-krasnodarskom-krae-vyirastet-vdvoe.html, Дата и время: 17:21
+
+Progress: 84% [42/50][DEBUG] Новость: '«Транснефть» завершит импортозамещение оборудования к 2027 году', Ссылка: https://mashnews.ru/transneft-zavershit-importozameshhenie-oborudovaniya-k-2027-godu.html, Дата и время: 16:59
+
+Progress: 86% [43/50][DEBUG] Новость: 'ОДК представит силовые установки для работы тяжелых беспилотников на Крайнем Севере', Ссылка: https://mashnews.ru/odk-predstavit-silovyie-ustanovki-dlya-rabotyi-tyazhelyix-bespilotnikov-na-krajnem-severe.html, Дата и время: 16:32
+
+Progress: 88% [44/50][DEBUG] Новость: 'КМЗ поставит задвижки и клапаны для склада горюче-смазочных материалов в Шереметьево', Ссылка: https://mashnews.ru/kmz-postavit-zadvizhki-i-klapanyi-dlya-sklada-goryuche-smazochnyix-materialov-v-shermetevo.html, Дата и время: 15:56
+
+Progress: 90% [45/50][DEBUG] Новость: 'Без неожиданностей: Москва и Петербург возглавили рейтинг «новой индустриализации»', Ссылка: https://mashnews.ru/bez-neozhidannostej-moskva-i-peterburg-vozglavili-rejting-novoj-industrializaczii.html, Дата и время: 15:27
+
+Progress: 92% [46/50][DEBUG] Новость: 'Ленинградский металлический завод изготовил энергетическое оборудование для «Алросы»', Ссылка: https://mashnews.ru/leningradskij-metallicheskij-zavod-izgotovil-energeticheskoe-oborudovanie-dlya-alrosyi.html, Дата и время: 14:51
+
+Progress: 94% [47/50][DEBUG] Новость: 'ВИЗ-Сталь обновляет парк грузоподъемного оборудования', Ссылка: https://mashnews.ru/viz-stal-obnovlyaet-park-gruzopodemnogo-oborudovaniya.html, Дата и время: 14:16
+
+Progress: 96% [48/50][DEBUG] Новость: 'Новая ракета для Су-35С бьет на 190 км. TWZ: «Это вызов для ВСУ»', Ссылка: https://mashnews.ru/novaya-raketa-dlya-su-35s-bet-na-190-km.-twz-eto-vyizov-dlya-vsu.html, Дата и время: 13:42
+
+Progress: 98% [49/50][DEBUG] Новость: '«Уральские локомотивы» сертифицировали двухсистемный скоростной электропоезд «Финист»', Ссылка: https://mashnews.ru/uralskie-lokomotivyi-sertificzirovali-dvuxsistemnyij-skorostnoj-elektropoezd-finist.html, Дата и время: 13:05
+
+Progress: 100% [50/50]
+[INFO] Достигнуто 50 новостей, прекращаем сбор.
+
+[INFO] Завершён сбор новостей. Собрано 50 новостей.
+[INFO] Закрыт браузер.
+[INFO] Сохраняем данные в файл C:\Users\Eternity\Documents\Python_Projects\parsed_excels\News_data_Mashnews_First_50_News.xlsx
+[INFO] Данные успешно сохранены и отформатированы в файле 'C:\Users\Eternity\Documents\Python_Projects\parsed_excels\News_data_Mashnews_First_50_News.xlsx'.
+[INFO] Скрипт завершен успешно.

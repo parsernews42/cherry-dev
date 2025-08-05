@@ -1,0 +1,10 @@
+Flask
+gunicorn
+selenium
+pandas
+openpyxl
+openpyxl.utils
+datetime
+os
+time
+tqdm

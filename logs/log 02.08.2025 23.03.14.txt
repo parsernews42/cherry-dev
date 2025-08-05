@@ -1,0 +1,112 @@
+[INFO] Открываем страницу https://rg.ru/tema/ekonomika/business
+[INFO] Ждем загрузки элемента с новостями
+[INFO] Выполняем прокрутку вниз 1/3
+[DEBUG] Найдено элементов на странице: 50
+[DEBUG] Новость: 'Эксперты объяснили, зачем застройщики идут в "чужие" регионы', Ссылка: https://rg.ru/2025/08/01/eksperty-obiasnili-zachem-zastrojshchiki-idut-v-chuzhie-regiony.html, Дата: 01.08.2025
+
+Progress: 2% [1/50][DEBUG] Новость: 'Три новых индустриальных парка появятся в Подмосковье', Ссылка: https://rg.ru/2025/08/01/reg-cfo/tri-novyh-industrialnyh-parka-poiaviatsia-v-podmoskove.html, Дата: 01.08.2025
+
+Progress: 4% [2/50][DEBUG] Новость: 'Как рекламная отрасль адаптируется к правилам отчетности с интернет-рекламы', Ссылка: https://rg.ru/2025/08/01/kak-reklamnaia-otrasl-adaptiruetsia-k-pravilam-otchetnosti-s-internet-reklamy.html, Дата: 01.08.2025
+
+Progress: 6% [3/50][DEBUG] Новость: 'Минцифры и Минэк до октября займутся реестром устраненных бизнесом нарушений', Ссылка: https://rg.ru/2025/08/01/mincifry-i-minek-do-oktiabria-zajmutsia-reestrom-ustranennyh-biznesom-narushenij.html, Дата: 01.08.2025
+
+Progress: 8% [4/50][DEBUG] Новость: 'Технологии помогут бороться с картелями', Ссылка: https://rg.ru/2025/08/01/tehnologii-pomogut-borotsia-s-karteliami.html, Дата: 01.08.2025
+
+Progress: 10% [5/50][DEBUG] Новость: 'Новые правила открытия счетов для подростков, отказ от спам-рассылок и ГОСТ на игрушки: что ждет россиян в августе', Ссылка: https://rg.ru/2025/08/01/avgust-vstupaet-v-silu.html, Дата: 01.08.2025
+
+Progress: 12% [6/50][DEBUG] Новость: 'Самозанятые перечислили в бюджет почти 100 миллиардов налогов', Ссылка: https://rg.ru/2025/07/31/ekonomika-kreativnyh.html, Дата: 31.07.2025
+
+Progress: 14% [7/50][DEBUG] Новость: 'Президент подписал закон о регулировании платформенной экономики', Ссылка: https://rg.ru/2025/07/31/prezident-podpisal-zakon-o-regulirovanii-platformennoj-ekonomiki.html, Дата: 31.07.2025
+
+Progress: 16% [8/50][DEBUG] Новость: 'Путин подписал закон о кредитных каникулах для МСП и самозанятых', Ссылка: https://rg.ru/2025/07/31/putin-podpisal-zakon-o-kreditnyh-kanikulah-dlia-msp-i-samozaniatyh.html, Дата: 31.07.2025
+
+Progress: 18% [9/50][DEBUG] Новость: 'Миллиардер Рыбаков выкупает права на альбом Гуфа, чтобы удалить его из Сети', Ссылка: https://rg.ru/2025/07/31/milliarder-rybakov-vykupil-prava-na-albom-gufa-chtoby-udalit-ego-iz-seti.html, Дата: 31.07.2025
+
+Progress: 20% [10/50][DEBUG] Новость: 'Бурятский хлеб начали продавать в Китае', Ссылка: https://rg.ru/2025/07/31/reg-dfo/karavaj-za-granicej-vybiraj.html, Дата: 31.07.2025
+
+Progress: 22% [11/50][DEBUG] Новость: 'Власти Кипра согласовали проведение перерегистрации Ozon в РФ', Ссылка: https://rg.ru/2025/07/30/vlasti-kipra-soglasovali-provedenie-pereregistracii-ozon-v-rf.html, Дата: 30.07.2025
+
+Progress: 24% [12/50][DEBUG] Новость: 'От разделочного стола до панели: Мишустин ожидает от пищевой промышленности полной локализации', Ссылка: https://rg.ru/2025/07/30/mishustin-ozhidaet-polnoj-lokalizacii-v-pishchevoj-promyshlennosti.html, Дата: 30.07.2025
+
+Progress: 26% [13/50][DEBUG] Новость: 'Каждый пятый россиянин заказывает доставку продуктов ежедневно', Ссылка: https://rg.ru/2025/07/29/predchuvstvie-edy.html, Дата: 29.07.2025
+
+Progress: 28% [14/50][DEBUG] Новость: 'Исаевич: Число субъектов малого и среднего бизнеса выросло за год на 203 тысячи', Ссылка: https://rg.ru/2025/07/29/isaevich-chislo-subektov-malogo-i-srednego-biznesa-vyroslo-za-god-na-203-tysiachi.html, Дата: 29.07.2025
+
+Progress: 30% [15/50][DEBUG] Новость: 'На Портале поставщиков Москвы заключили почти 45 тыс контрактов при помощи бота', Ссылка: https://rg.ru/2025/07/29/na-portale-postavshchikov-moskvy-zakliuchili-pochti-45-tys-kontraktov-pri-pomoshchi-bota.html, Дата: 29.07.2025
+
+Progress: 32% [16/50][DEBUG] Новость: 'Льготные ставки по микрозаймам для бизнеса оказались в 4 раза меньше кредитных', Ссылка: https://rg.ru/2025/07/29/lgotnye-stavki-po-mikrozajmam-dlia-biznesa-okazalis-v-4-raza-menshe-kreditnyh.html, Дата: 29.07.2025
+
+Progress: 34% [17/50][DEBUG] Новость: 'Исаевич: Вся инфраструктура поддержки МСП должна быть доступна в режиме "клика"', Ссылка: https://rg.ru/2025/07/28/isaevich-vsia-infrastruktura-podderzhki-msp-dolzhna-byt-dostupna-v-rezhime-klika.html, Дата: 29.07.2025
+
+Progress: 36% [18/50][DEBUG] Новость: 'Глава Корпорации МСП: Малый бизнес осваивает высокие технологии', Ссылка: https://rg.ru/2025/07/29/glava-korporacii-msp-malyj-biznes-osvaivaet-vysokie-tehnologii.html, Дата: 29.07.2025
+
+Progress: 38% [19/50][DEBUG] Новость: 'Молодежь, "цифра" и технологии. Гендиректор Корпорации МСП Александр Исаевич - о факторах роста малого бизнеса в России', Ссылка: https://rg.ru/2025/07/29/delo-molodoe.html, Дата: 29.07.2025
+
+Progress: 40% [20/50][DEBUG] Новость: 'Бизнес выступил против запрета на размещение ПВЗ в жилых домах', Ссылка: https://rg.ru/2025/07/28/von-iz-doma.html, Дата: 28.07.2025
+
+Progress: 42% [21/50][DEBUG] Новость: '"Ломбард-Л1": Переосмысливая ломбардный бизнес - Люди, Развитие, Доверие', Ссылка: https://rg.ru/2025/07/28/reg-ufo/lombard-l1-pereosmyslivaia-lombardnyj-biznes-liudi-razvitie-doverie.html, Дата: 28.07.2025
+
+Progress: 44% [22/50][DEBUG] Новость: 'Цивилев: Проблему ликвидности компаний решит поддержка угольной отрасли', Ссылка: https://rg.ru/2025/07/26/civilev-problemu-likvidnosti-kompanij-reshit-podderzhka-ugolnoj-otrasli.html, Дата: 26.07.2025
+
+Progress: 46% [23/50][DEBUG] Новость: 'Россияне заказывают Лабубу из-за рубежа чаще, чем айфоны', Ссылка: https://rg.ru/2025/07/26/rossiiane-zakazyvaiut-labubu-iz-za-rubezha-chashche-chem-ajfony.html, Дата: 26.07.2025
+
+Progress: 48% [24/50][DEBUG] Новость: 'Сенаторы поддержали кредитные каникулы для МСП и самозанятых', Ссылка: https://rg.ru/2025/07/25/senatory-podderzhali-kreditnye-kanikuly-dlia-msp-i-samozaniatyh.html, Дата: 25.07.2025
+
+Progress: 50% [25/50][DEBUG] Новость: 'РИА Новости: Российская "дочка" Microsoft подала заявление о банкротстве', Ссылка: https://rg.ru/2025/07/25/ria-novosti-rossijskaia-dochka-microsoft-podala-zaiavlenie-o-bankrotstve.html, Дата: 25.07.2025
+
+Progress: 52% [26/50][DEBUG] Новость: 'Фабрика Mars сняла с производства в России шоколадные плитки Dove и "Коркунов"', Ссылка: https://rg.ru/2025/07/25/kompaniia-mars-sniala-s-proizvodstva-v-rossii-shokoladnye-plitki-dove-i-korkunov.html, Дата: 25.07.2025
+
+Progress: 54% [27/50][DEBUG] Новость: 'В Рязанской области ввели новую меру поддержки для участников СВО', Ссылка: https://rg.ru/2025/07/25/reg-cfo/v-riazanskoj-oblasti-vveli-novuiu-meru-podderzhki-dlia-uchastnikov-svo.html, Дата: 25.07.2025
+
+Progress: 56% [28/50][DEBUG] Новость: 'ФАС возбудила дело в отношении "Газпром ГНП продажи"', Ссылка: https://rg.ru/2025/07/25/fas-vozbudila-delo-v-otnoshenii-gazprom-gnp-prodazhi.html, Дата: 25.07.2025
+
+Progress: 57% [29/50][DEBUG] Новость: 'Mars ищет взаимовыгодное решение после приостановки X5 отгрузок', Ссылка: https://rg.ru/2025/07/24/mars-ishchet-vzaimovygodnoe-reshenie-posle-priostanovki-x5-otgruzok.html, Дата: 24.07.2025
+
+Progress: 60% [30/50][DEBUG] Новость: 'Эксперты оценили идею запрета ПВЗ в жилых домах. Как это повлияет на цены?', Ссылка: https://rg.ru/2025/07/24/ekspert-shcherbachenko-zapret-na-pvz-v-zhilyh-domah-mozhet-povlech-rost-cen.html, Дата: 24.07.2025
+
+Progress: 62% [31/50][DEBUG] Новость: 'Х5 остановила отгрузку продукции Mars в магазины "Пятерочка" и "Перекресток"', Ссылка: https://rg.ru/2025/07/24/h5-ostanovila-otgruzku-produkcii-mars-v-magaziny-piaterochka-i-perekrestok.html, Дата: 24.07.2025
+
+Progress: 64% [32/50][DEBUG] Новость: 'Треть малых и средних компаний подключила оплату по СБП', Ссылка: https://rg.ru/2025/07/24/tret-malyh-i-srednih-kompanij-podkliuchila-oplatu-po-sbp.html, Дата: 24.07.2025
+
+Progress: 66% [33/50][DEBUG] Новость: 'Крупнейший в Европе ТЦ "Авиапарк" выставлен на продажу за 100 млрд рублей', Ссылка: https://rg.ru/2025/07/24/vedomosti-krupnejshij-v-evrope-tc-aviapark-v-moskve-vystavili-na-prodazhu.html, Дата: 24.07.2025
+
+Progress: 68% [34/50][DEBUG] Новость: 'Минфин: Заявок от зарубежных компаний о возвращении в РФ не поступало', Ссылка: https://rg.ru/2025/07/24/minfin-zaiavok-ot-zarubezhnyh-kompanij-o-vozvrashchenii-v-rf-ne-postupalo.html, Дата: 24.07.2025
+
+Progress: 70% [35/50][DEBUG] Новость: 'Нижний Новгород тестирует доставку товаров с помощью дронов', Ссылка: https://rg.ru/2025/07/23/reg-pfo/nizhnij-novgorod-gruz-dostavit-aviakurer.html, Дата: 23.07.2025
+
+Progress: 72% [36/50][DEBUG] Новость: 'В Астрахани создали оснащенного видеокамерами подводного робота', Ссылка: https://rg.ru/2025/07/23/reg-ufo/astrahan-prometej-ushel-pod-vodu.html, Дата: 23.07.2025
+
+Progress: 74% [37/50][DEBUG] Новость: 'Москва заключила за первое полугодие 133 тысячи контрактов с малым бизнесом', Ссылка: https://rg.ru/2025/07/23/moskva-zakliuchila-za-pervoe-polugodie-133-tysiachi-kontraktov-s-malym-biznesom.html, Дата: 23.07.2025
+
+Progress: 76% [38/50][DEBUG] Новость: 'Минцифры поддержало создание регуляторной модели опционов для сотрудников IT-компаний', Ссылка: https://rg.ru/2025/07/23/dolia-uspeha.html, Дата: 22.07.2025
+
+Progress: 78% [39/50][DEBUG] Новость: 'Малый бизнес и самозанятые смогут оформить кредитные каникулы', Ссылка: https://rg.ru/2025/07/22/gosduma-vvela-kreditnye-kanikuly-dlia-malogo-biznesa-i-samozaniatyh.html, Дата: 22.07.2025
+
+Progress: 80% [40/50][DEBUG] Новость: 'Стивен Сигал покинул пост генерального директора ООО "Пять элементов"', Ссылка: https://rg.ru/2025/07/22/stiven-sigal-pokinul-odnu-iz-svoih-poslednih-kompanij-v-rossii.html, Дата: 22.07.2025
+
+Progress: 82% [41/50][DEBUG] Новость: 'В фитнес-сообществе предложили определить критерии работы клубов с самозанятыми', Ссылка: https://rg.ru/2025/07/22/reg-ufo/v-fitnes-soobshchestve-predlozhili-opredelit-kriterii-raboty-klubov-s-samozaniatymi.html, Дата: 22.07.2025
+
+Progress: 84% [42/50][DEBUG] Новость: 'ВЦИОМ: Предприниматели учатся находить "точки соприкосновения" с конкурентами', Ссылка: https://rg.ru/2025/07/22/vciom-predprinimateli-uchatsia-verit-drugu-drugu-i-gosudarstvu.html, Дата: 22.07.2025
+
+Progress: 86% [43/50][DEBUG] Новость: 'Сеть "Винлаб" в течение недели полностью возобновит работу после кибератаки', Ссылка: https://rg.ru/2025/07/22/set-vinlab-v-techenie-nedeli-polnostiu-vozobnovit-rabotu-posle-kiberataki.html, Дата: 22.07.2025
+
+Progress: 88% [44/50][DEBUG] Новость: 'Компания из РФ подтвердила международный стандарт ответственной разработки ИИ', Ссылка: https://rg.ru/2025/07/22/kompaniia-iz-rf-podtverdila-mezhdunarodnyj-standart-otvetstvennoj-razrabotki-ii.html, Дата: 22.07.2025
+
+Progress: 90% [45/50][DEBUG] Новость: 'Максут Шадаев: Российские компании создают востребованные IT-решения', Ссылка: https://rg.ru/2025/07/22/maksut-shadaev-rossijskie-kompanii-sozdaiut-vostrebovannye-it-resheniia.html, Дата: 22.07.2025
+
+Progress: 92% [46/50][DEBUG] Новость: 'В России остановлено производство антисептика "Мирамистин"', Ссылка: https://rg.ru/2025/07/21/v-rossii-ostanovleno-proizvodstvo-antiseptika-miramistin.html, Дата: 21.07.2025
+
+Progress: 94% [47/50][DEBUG] Новость: 'Григоренко: Регионам при внедрении ИИ важно обмениваться опытом', Ссылка: https://rg.ru/2025/07/21/reg-sibfo/grigorenko-regionam-pri-vnedrenii-ii-vazhno-obmenivatsia-opytom.html, Дата: 21.07.2025
+
+Progress: 96% [48/50][DEBUG] Новость: 'Закупки госкомпаний у МСП превысили 3,8 трлн рублей', Ссылка: https://rg.ru/2025/07/21/zakupki-goskompanij-u-msp-prevysili-38-trln-rublej.html, Дата: 21.07.2025
+
+Progress: 98% [49/50][DEBUG] Новость: 'Глава Bavaria-Bau Эбергардт: Потеря рынка РФ привела компании к банкротствам', Ссылка: https://rg.ru/2025/07/21/glava-bavaria-bau-ebergardt-poteria-rynka-rf-privela-kompanii-k-bankrotstvam.html, Дата: 21.07.2025
+
+Progress: 100% [50/50]
+[INFO] Достигнуто 50 новостей, прекращаем сбор.
+
+[INFO] Завершён сбор новостей. Собрано 50 новостей.
+[INFO] Закрыт браузер.
+[INFO] Сохраняем данные в файл C:\Users\Eternity\Documents\Python_Projects\parsed_excels\News_data_RG_First_50_News.xlsx
+[INFO] Данные успешно сохранены и отформатированы в файле 'C:\Users\Eternity\Documents\Python_Projects\parsed_excels\News_data_RG_First_50_News.xlsx'.
+[INFO] Скрипт завершен успешно.
